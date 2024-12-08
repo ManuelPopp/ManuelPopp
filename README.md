@@ -1,7 +1,6 @@
-# Hello, I'm ManuelPopp! 👋
+# Hello, I'm ManuelPopp! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-richard-popp/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mapopp@ethz.ch)
 
 Welcome to my GitHub profile! I am a geoecologist by training and I mainly work on coding tools and solutions to answer ecological questions. This repository also serves to document code I am using for data analysis and visualisation.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-richard-popp/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mapopp@ethz.ch)
 
 ## About Me
 
