@@ -1,6 +1,7 @@
 # Hello, I'm ManuelPopp! 👋
 
 Welcome to my GitHub profile! I am a geoecologist by training and I mainly work on coding tools and solutions to answer ecological questions. This repository also serves to document code I am using for data analysis and visualisation.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-richard-popp/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mapopp@ethz.ch)
 
 ## About Me
 
@@ -28,11 +29,7 @@ Welcome to my GitHub profile! I am a geoecologist by training and I mainly work 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-richard-popp/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mapopp@ethz.ch)
-
-Some more platforms/sites:
+## Connect with me
 
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Manuel-Popp-2)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/manupopp.bsky.social)
