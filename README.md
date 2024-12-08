@@ -1,14 +1,6 @@
 # Hello, I'm ManuelPopp! [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-richard-popp/)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mapopp@ethz.ch)
 
-Welcome to my GitHub profile! I am a geoecologist by training and I mainly work on coding tools and solutions to answer ecological questions. This repository also serves to document code I am using for data analysis and visualisation.
-
-## About Me
-
-- 🔭 I’m working as a PhD student at [WSL](https://www.wsl.ch/en/staff/poppman/)/[ETHZ](https://usys.ethz.ch/en/).
-- 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m looking to collaborate on innovative and impactful projects.
-- 💬 Ask me about anything related to coding and technology.
-- 📫 How to reach me: [Email](mailto:mapopp@ethz.ch) | [LinkedIn](https://www.linkedin.com/in/manuel-richard-popp/)
+Welcome to my GitHub profile! I am a geoecologist by training and I mainly work on coding tools and solutions to answer ecological questions. This repository also serves to document code I am using for data analysis and visualisation. I’m employed as a PhD student at [WSL](https://www.wsl.ch/en/staff/poppman/)/[ETHZ](https://usys.ethz.ch/en/).
 
 ## GitHub Stats
 
