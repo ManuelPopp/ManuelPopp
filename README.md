@@ -1,4 +1,4 @@
-# Hello, I'm $$USERNAME$$! 👋
+# Hello, I'm ManuelPopp! 👋
 
 Welcome to my GitHub profile! I am a geoecologist by training and I mainly work on coding tools and solutions to answer ecological questions. This repository also serves to document code I am using for data analysis and visualisation.
 
@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I am a geoecologist by training and I mainly work 
 
 ## GitHub Stats
 
-![$$USERNAME$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true&theme=radical)
+![ManuelPopp's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelPopp&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$USERNAME$$&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelPopp&layout=compact&theme=radical)
 
 ## Connect with Me
 
